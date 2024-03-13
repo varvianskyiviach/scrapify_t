@@ -1,0 +1,5210 @@
+[
+    {
+        "name": "Біг Мак",
+        "description": "Два біфштекси з натуральної яловичини, цибуля, маринований огірок, сир “Чеддер”, свіжий салат, заправлені спеціальним соусом, у булочці з насінням сезаму.",
+        "colories": {
+            "value": {
+                "amount": "526",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (26 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "27",
+                "unit": "g"
+            },
+            "metric": "Жири (39 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "43",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (17 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "27",
+                "unit": "g"
+            },
+            "metric": "Білки (54 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "10",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "8.9",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.2",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "212",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Гамбургер",
+        "description": "Біфштекс із натуральної яловичини, цибуля,\nшматочок маринованого огірка, заправлені\nгірчицею і кетчупом, у запашній булочці з\nпшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "249",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (12 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "8.7",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "29",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "13",
+                "unit": "g"
+            },
+            "metric": "Білки (26 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "3.5",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "7.2",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.1",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "96",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чізбургер",
+        "description": "Біфштекс із натуральної яловичини, шматочок сиру “Чеддер”, шматочок маринованого огірка та цибуля, заправлені гірчицею і кетчупом, у булочці з пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "298",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (15 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "13",
+                "unit": "g"
+            },
+            "metric": "Жири (19 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "29",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "16",
+                "unit": "g"
+            },
+            "metric": "Білки (32 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "6.1",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "7.6",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.6",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "108",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Дабл Чізбургер",
+        "description": "Два біфштекси з натуральної яловичини, два шматочки сиру «Чедер», два мариновані огірки, цибуля, гірчиця, кетчуп, булочка.",
+        "colories": {
+            "value": {
+                "amount": "475",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (24 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "27.3",
+                "unit": "g"
+            },
+            "metric": "Жири (39 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "31.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "26.5",
+                "unit": "g"
+            },
+            "metric": "Білки (53 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "12.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "6.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.5",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "163",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МакЧікен",
+        "description": "Класичний смак, простий вибір. Хрустка куряча котлета із соковитим салатом і ніжним соусом. Ну як тут відмовитись?!",
+        "colories": {
+            "value": {
+                "amount": "448",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (22 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "18",
+                "unit": "g"
+            },
+            "metric": "Жири (26 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "49.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (19 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "22.3",
+                "unit": "g"
+            },
+            "metric": "Білки (45 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "5.3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.2",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "180",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Біг Тейсті",
+        "description": "Натуральна яловичина у поєднанні зі свіжими овочами та плавленим сиром “Емменталь”.",
+        "colories": {
+            "value": {
+                "amount": "790",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (40 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "49.5",
+                "unit": "g"
+            },
+            "metric": "Жири (71 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "49.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (19 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "37.2",
+                "unit": "g"
+            },
+            "metric": "Білки (74 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "18.7",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "10.2",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "3.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "318",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Філе-о-фіш",
+        "description": "Ніжне рибне філе із тріскових риб, засмажене у хрумкому паніруванні, півшматочка сиру “Чеддер”, заправлені пікантним соусом, у пухкій булочці з пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "327",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (16 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "14",
+                "unit": "g"
+            },
+            "metric": "Жири (20 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "35",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (13 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "15",
+                "unit": "g"
+            },
+            "metric": "Білки (30 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.7",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "5.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.4",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "130",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Роял Чізбургер",
+        "description": "Біфштекс із натуральної яловичини, два слайси сиру «Чедер», два шматочки маринованого огірка та свіжа цибуля, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "530",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (27 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "27",
+                "unit": "g"
+            },
+            "metric": "Жири (39 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "38",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (15 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "32",
+                "unit": "g"
+            },
+            "metric": "Білки (64 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "14",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "11",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.6",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "194",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Дабл Роял Чізбургер",
+        "description": "Два біфштекси з натуральної яловичини в поєднанні з двома слайсами ніжного сиру «Чедер», двома огірочками та свіжою цибулькою, заправлені гірчицею та кетчупом, у булочці з пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "760",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (38 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "44",
+                "unit": "g"
+            },
+            "metric": "Жири (63 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "38",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (15 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "52",
+                "unit": "g"
+            },
+            "metric": "Білки (104 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "21",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "11",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "3.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "272",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чізбургер з беконом",
+        "description": "Соковитий біфштекс із яловичини, доповнений хрумким беконом і маринованим огірком, у поєднанні зі шматочком сиру «Чедер» та цибулею — усе це заправлено гірчицею та кетчупом у запашній булочці із пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "348",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (17 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "17.6",
+                "unit": "g"
+            },
+            "metric": "Жири (25 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "27.8",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "16.4",
+                "unit": "g"
+            },
+            "metric": "Білки (33 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "7.7",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "6.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.9",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "116",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен Джуніор",
+        "description": "Соковита куряча котлета із хрусткими шматочками огірочка під «Медово-гірчичним» соусом у запашній булочці з пшеничного борошна.",
+        "colories": {
+            "value": {
+                "amount": "330",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (17 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.5",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "51.9",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (19 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "12.5",
+                "unit": "g"
+            },
+            "metric": "Білки (16 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "7.1",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.5",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "115",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МакТост із сиром",
+        "description": "Гаряча булочка з двома скибочками сиру “Чеддер”.",
+        "colories": {
+            "value": {
+                "amount": "264",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (13 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "10.1",
+                "unit": "g"
+            },
+            "metric": "Жири (15 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "33",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "10.4",
+                "unit": "g"
+            },
+            "metric": "Білки (13 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "5.2",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "5.2",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.6",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "73",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен Рол",
+        "description": "Загорнуті в тонкий лаваш шматочки курятини, свіжі помідори та хрумкий салат- латук – і все це заправлене пікантним гірчично-медовим соусом.",
+        "colories": {
+            "value": {
+                "amount": "340",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (17 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "10.1",
+                "unit": "g"
+            },
+            "metric": "Жири (15 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "42.2",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (15 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "19.2",
+                "unit": "g"
+            },
+            "metric": "Білки (25 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3.7",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.2",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "215",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Фіш Рол",
+        "description": "Свіжий смак овочів у поєднанні з соковитим філе риби в паніруванні. Страва для справжніх гурманів!",
+        "colories": {
+            "value": {
+                "amount": "436",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (22 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "19",
+                "unit": "g"
+            },
+            "metric": "Жири (28 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "46",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (18 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "18",
+                "unit": "g"
+            },
+            "metric": "Білки (36 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "3.34",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3.93",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.4",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "190",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен МакНагетс 4шт",
+        "description": "Шматочки ніжного курячого філе, засмажені в хрумкій паніровці.",
+        "colories": {
+            "value": {
+                "amount": "176",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (9 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "8.6",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "13",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (5 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "11",
+                "unit": "g"
+            },
+            "metric": "Білки (22 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.8",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "68",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен МакНагетс 6шт",
+        "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+        "colories": {
+            "value": {
+                "amount": "265",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (13 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "13",
+                "unit": "g"
+            },
+            "metric": "Жири (18 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "20",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "17",
+                "unit": "g"
+            },
+            "metric": "Білки (33 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.7",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.2",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "100",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен МакНагетс 9шт",
+        "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+        "colories": {
+            "value": {
+                "amount": "397",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (20 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "19",
+                "unit": "g"
+            },
+            "metric": "Жири (28 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "30",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "25",
+                "unit": "g"
+            },
+            "metric": "Білки (50 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.4",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "1.1",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.8",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "150",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Чікен МакНагетс 20 шт",
+        "description": "Апетитні шматочки ніжного курячого філе, засмажені у хрумкій паніровці.",
+        "colories": {
+            "value": {
+                "amount": "882",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (44 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "43",
+                "unit": "g"
+            },
+            "metric": "Жири (61 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "67",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (26 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "55",
+                "unit": "g"
+            },
+            "metric": "Білки (110 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "5.2",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "2.4",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "4.1",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "340",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Курячі Стріпси, 3 штуки",
+        "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+        "colories": {
+            "value": {
+                "amount": "200",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (10 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "9.7",
+                "unit": "g"
+            },
+            "metric": "Жири (14 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "10.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (4 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "18.2",
+                "unit": "g"
+            },
+            "metric": "Білки (36 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.5",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "1.1",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.4",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "80",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Курячі Стріпси, 6 штук",
+        "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+        "colories": {
+            "value": {
+                "amount": "400",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (20 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "19.3",
+                "unit": "g"
+            },
+            "metric": "Жири (28 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "20.2",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "36.3",
+                "unit": "g"
+            },
+            "metric": "Білки (73 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "2.1",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.7",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "160",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Курячі Стріпси, 12 штук",
+        "description": "Смужки білого соковитого курячого філе, що обсмажуються у хрусткій паніровці. Скільки тобі шматочків? Три, щоб з’їсти одному, чи шість для себе і друга або ж дванадцять на велику компанію?",
+        "colories": {
+            "value": {
+                "amount": "800",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (40 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "38.6",
+                "unit": "g"
+            },
+            "metric": "Жири (55 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "40.3",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (16 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "72.7",
+                "unit": "g"
+            },
+            "metric": "Білки (145 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "5.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "4.2",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "5.5",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "320",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Стріпси Чікен Бокс",
+        "description": "Мікс Бокс для невеличкої компанії друзів. Адже всередині знайдеш дев’ять золотавих Чікен МакНагетс® та шість стріпсів із курячого філе.",
+        "colories": {
+            "value": {
+                "amount": "831",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (42 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "39.2",
+                "unit": "g"
+            },
+            "metric": "Жири (56 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "55.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (21 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "64.5",
+                "unit": "g"
+            },
+            "metric": "Білки (129 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "5.3",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3.4",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "4.9",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "330",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Хрусткі курячі крильця 4 шматочки",
+        "description": "Курячі крильця в хрусткому паніруванні",
+        "colories": {
+            "value": {
+                "amount": "361",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (18 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "22",
+                "unit": "g"
+            },
+            "metric": "Жири (31 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "17",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (7 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "24",
+                "unit": "g"
+            },
+            "metric": "Білки (48 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "5.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "17",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.7",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "130",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Хрусткі курячі крильця 6 шматочків",
+        "description": "Курячі крильця в хрусткому паніруванні",
+        "colories": {
+            "value": {
+                "amount": "541",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (27 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "33",
+                "unit": "g"
+            },
+            "metric": "Жири (47 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "25",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (10 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "36",
+                "unit": "g"
+            },
+            "metric": "Білки (72 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "8.8",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.5",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "190",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Хрусткі курячі крильця 10 шматочків",
+        "description": "Курячі крильця в хрусткому паніруванні",
+        "colories": {
+            "value": {
+                "amount": "1082",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (54 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "66",
+                "unit": "g"
+            },
+            "metric": "Жири (94 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "50",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (19 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "72",
+                "unit": "g"
+            },
+            "metric": "Білки (144 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "18",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "50",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "5.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "380",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Крила Чікен Бокс",
+        "description": "Соковиті курячі крильця в хрусткій паніровці та Чікен МакНагетс® із ніжного курячого філе.\n\n6 шт. курячих крилець, 9 шт. Чікен МакНагетс",
+        "colories": {
+            "value": {
+                "amount": "938",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (47 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "52.1",
+                "unit": "g"
+            },
+            "metric": "Жири (75 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "54.8",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (22 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "60.9",
+                "unit": "g"
+            },
+            "metric": "Білки (122 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "11.2",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.9",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "4.3",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "340",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Мікс Чікен Бокс",
+        "description": "Якщо ти любиш курочку, цей Чікен Мікс Бокс саме для тебе. Три ніжні стріпси з білого м’яса курочки, шість улюблених соковитих Чікен МакНагетс® та 4 хрусткі курячі крильця, яким так пасує соус. Замовляй — і можеш навіть ні з ким не ділитися. Коли смачно — кожен за себе.\n\n3 шт. курячих стріпсів, 4 шт. курячих крилець, 6 шт. Чікен МакНагетс",
+        "colories": {
+            "value": {
+                "amount": "848",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (42 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "45",
+                "unit": "g"
+            },
+            "metric": "Жири (64 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "50",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (19 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "60.9",
+                "unit": "g"
+            },
+            "metric": "Білки (122 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "8.9",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "18.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "4.5",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "330",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Сир Камамбер ",
+        "description": "Сир у хрусткому паніруванні у поєднанні з соусом із журавлини (4 шматочки).",
+        "colories": {
+            "value": {
+                "amount": "313",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (16 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "17.014",
+                "unit": "g"
+            },
+            "metric": "Жири (24 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "18.988",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (7 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "14.006",
+                "unit": "g"
+            },
+            "metric": "Білки (28 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "8.648",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.752",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.504",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "74",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Картопля Фрі велика",
+        "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+        "colories": {
+            "value": {
+                "amount": "434",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (22 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "21",
+                "unit": "g"
+            },
+            "metric": "Жири (29 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "54",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (21 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "5.2",
+                "unit": "g"
+            },
+            "metric": "Білки (10 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.984",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.536",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.7",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "120",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Картопля Фрі середня",
+        "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+        "colories": {
+            "value": {
+                "amount": "330",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (16 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "16",
+                "unit": "g"
+            },
+            "metric": "Жири (22 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "41",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (16 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4",
+                "unit": "g"
+            },
+            "metric": "Білки (8 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.49",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.407",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.53",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "90",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Картопля Фрі маленька",
+        "description": "Добірна картопля, засмажена в натуральній олії і трохи підсолена.",
+        "colories": {
+            "value": {
+                "amount": "231",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (12 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "11",
+                "unit": "g"
+            },
+            "metric": "Жири (16 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "29",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.8",
+                "unit": "g"
+            },
+            "metric": "Білки (6 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.55",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "60",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Картопляні Діпи",
+        "description": "Апетитні скибочки добірної картоплі, засмажені в натуральній олії і трохи підсолені.",
+        "colories": {
+            "value": {
+                "amount": "232",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (12 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "5.7",
+                "unit": "g"
+            },
+            "metric": "Жири (9 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "40.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (15 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "3.3",
+                "unit": "g"
+            },
+            "metric": "Білки (4 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.7",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "150",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус Хабанеро",
+        "description": "Пікантний перець Хабанеро, солодка паприка й прянощі. Спробуй із курячими крильцями, стріпсами, Картоплею Фрі або Чікен МакНагетс®!",
+        "colories": {
+            "value": {
+                "amount": "120",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "12.4",
+                "unit": "g"
+            },
+            "metric": "Жири (18 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "3.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (1 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.3",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.4",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "1.7",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.18",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "40",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус із сиром Дорблю",
+        "description": "Ніжний соус із вишуканим вершковим смаком сиру Дорблю — ідеальне доповнення до хрумких снеків.",
+        "colories": {
+            "value": {
+                "amount": "100",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (5 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "10.4",
+                "unit": "g"
+            },
+            "metric": "Жири (15 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "2.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (1 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.4",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.2",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "1.3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.8",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "40",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Майонез",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "119",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "13",
+                "unit": "g"
+            },
+            "metric": "Жири (18 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "1.2",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.1",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.525",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "1",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.31",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "25",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус Барбекю",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "38",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.2",
+                "unit": "g"
+            },
+            "metric": "Жири (0  % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "8.9",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (3 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.2",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "4",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.00",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "25",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Кетчуп",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "29",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (1 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "6.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (3 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.4",
+                "unit": "g"
+            },
+            "metric": "Білки (1 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "5.18",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.73",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "28",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус Гірчичний",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "55",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (3 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "3",
+                "unit": "g"
+            },
+            "metric": "Жири (4 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "6.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (2 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.5",
+                "unit": "g"
+            },
+            "metric": "Білки (1 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "25",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус кисло-солодкий",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "41",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.3",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "9.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (4 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.1",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.00",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "25",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Соус Сирний",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "89",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (5 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "9",
+                "unit": "g"
+            },
+            "metric": "Жири (13 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.9",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.5",
+                "unit": "g"
+            },
+            "metric": "Білки (1 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.1",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.4",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "24",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Мед",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "36",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "9",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (3 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.1",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.00",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "12",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Карамель у пластиковому стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою.",
+        "colories": {
+            "value": {
+                "amount": "286",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (14 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "6.1",
+                "unit": "g"
+            },
+            "metric": "Жири (9 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "53",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (20 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.7",
+                "unit": "g"
+            },
+            "metric": "Білки (9 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "4.1",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "38",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.28",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Шоколад у пластиковому стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою.",
+        "colories": {
+            "value": {
+                "amount": "278",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (14 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "8.2",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "45",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (17 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "5.5",
+                "unit": "g"
+            },
+            "metric": "Білки (11 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "6.4",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "42",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.38",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Полуниця у пластиковому стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою.",
+        "colories": {
+            "value": {
+                "amount": "227",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (11 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "4.1",
+                "unit": "g"
+            },
+            "metric": "Жири (6 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "43",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (17 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.1",
+                "unit": "g"
+            },
+            "metric": "Білки (8 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.8",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "37",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.16",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Карамель у вафельному стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена карамельною поливою, у вафельному стаканчику.",
+        "colories": {
+            "value": {
+                "amount": "309",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (15 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "6.2",
+                "unit": "g"
+            },
+            "metric": "Жири (9 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "57.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (21 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.9",
+                "unit": "g"
+            },
+            "metric": "Білки (9 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "4.1",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "42.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Шоколад у вафельному стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена шоколадною поливою, у вафельному стаканчику.",
+        "colories": {
+            "value": {
+                "amount": "301",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (15 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "8.3",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "49.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (18 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "5.7",
+                "unit": "g"
+            },
+            "metric": "Білки (11 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "6.4",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "46.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.4",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКСАНДІ Полуниця у вафельному стаканчику",
+        "description": "Охолоджена молочна суміш, збита до ідеального морозива та прикрашена полуничною поливою, у вафельному стаканчику.",
+        "colories": {
+            "value": {
+                "amount": "250",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (12 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "4.2",
+                "unit": "g"
+            },
+            "metric": "Жири (6 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "47.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (18 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.3",
+                "unit": "g"
+            },
+            "metric": "Білки (8 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.8",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "41.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.2",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "138",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Морозиво ріжок",
+        "description": "Морозиво, приготоване з добірної молочної суміші, у хрусткому стаканчику.",
+        "colories": {
+            "value": {
+                "amount": "171",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (9 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "3.95446153",
+                "unit": "g"
+            },
+            "metric": "Жири (6 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "28.9876923",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.42557692",
+                "unit": "g"
+            },
+            "metric": "Білки (9 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.20309615",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "22.3421538",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.18940384",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "95",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКФЛУРІ КІТ КАТ Шоколад",
+        "description": "Морозиво із шоколадною поливою і КітКат.",
+        "colories": {
+            "value": {
+                "amount": "331",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (17 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.93",
+                "unit": "g"
+            },
+            "metric": "Жири (11 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "56",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (22 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "8.49",
+                "unit": "g"
+            },
+            "metric": "Білки (17 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.14",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.52",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.01",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "195",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКФЛУРІ КІТ КАТ Карамель",
+        "description": "Морозиво із карамельною поливою і КітКат.",
+        "colories": {
+            "value": {
+                "amount": "354",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (18 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "9",
+                "unit": "g"
+            },
+            "metric": "Жири (13 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "60",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (23 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "8.13",
+                "unit": "g"
+            },
+            "metric": "Білки (16 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.02",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "37.22",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.13",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "195",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКФЛУРІ КІТ КАТ Полуниця",
+        "description": "Морозиво із полуничною поливою і КітКат.",
+        "colories": {
+            "value": {
+                "amount": "318",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (16 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.71",
+                "unit": "g"
+            },
+            "metric": "Жири (11 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "54",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (21 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "7.71",
+                "unit": "g"
+            },
+            "metric": "Білки (15 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.14",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "39.68",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.01",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "195",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МАКШЕЙК Шоколад",
+        "description": "Чудово збитий коктейль, приготований із добірного молока та шоколадного сиропу.",
+        "colories": {
+            "value": {
+                "amount": "413",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (21 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "8.6",
+                "unit": "g"
+            },
+            "metric": "Жири (12 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "71",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (27 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "12",
+                "unit": "g"
+            },
+            "metric": "Білки (24 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "2.2",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "65",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.37",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "450",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "МАКШЕЙК Ваніль",
+        "description": "Чудово збитий коктейль, приготований із добірного молока та ванільного сиропу.",
+        "colories": {
+            "value": {
+                "amount": "408",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (20 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.5",
+                "unit": "g"
+            },
+            "metric": "Жири (11 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "73",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (28 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "11",
+                "unit": "g"
+            },
+            "metric": "Білки (22 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "68",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.32",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "450",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "МАКШЕЙК Полуниця",
+        "description": "Чудово збитий коктейль, приготований із добірного молока та полуничного сиропу.",
+        "colories": {
+            "value": {
+                "amount": "415",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (21 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.6",
+                "unit": "g"
+            },
+            "metric": "Жири (11 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "74",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (29 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "11",
+                "unit": "g"
+            },
+            "metric": "Білки (22 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "1.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "69",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.32",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "450",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "МакПиріг вишневий",
+        "description": "Хрумкий, свіжоспечений МакПиріг® із вишневим наповнювачем.",
+        "colories": {
+            "value": {
+                "amount": "272",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (14 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "15",
+                "unit": "g"
+            },
+            "metric": "Жири (21 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "31",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.41",
+                "unit": "g"
+            },
+            "metric": "Білки (5 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "3.152",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "11.36",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.47",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "80",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Круасан мигдалевий",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "273",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (14 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "16",
+                "unit": "g"
+            },
+            "metric": "Жири (23 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "26",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (10 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "5",
+                "unit": "g"
+            },
+            "metric": "Білки (10 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "3.7125",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.4575",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "65",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Круасан з крем-какао",
+        "description": "Запашний круасан із хрусткою золотою скоринкою та ніжним какао-кремом.",
+        "colories": {
+            "value": {
+                "amount": "295",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (15 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "18",
+                "unit": "g"
+            },
+            "metric": "Жири (26 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "28",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (11 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.4925",
+                "unit": "g"
+            },
+            "metric": "Білки (9 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "4.425",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.45",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "65",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Міні донати з абрикосом",
+        "description": "Джем із соковитими абрикосами і пухке біле тісто, посипане цукровою пудрою.",
+        "colories": {
+            "value": {
+                "amount": "192",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (10 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "10.0",
+                "unit": "g"
+            },
+            "metric": "Жири (15 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "21.5",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.7",
+                "unit": "g"
+            },
+            "metric": "Білки (4 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "4.6",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "9.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "50",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "МакПиріг Абрикос",
+        "description": "Соковитий джем зі шматочками абрикосів в улюбленому хрусткому пиріжечку.",
+        "colories": {
+            "value": {
+                "amount": "254",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (13 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "11.7",
+                "unit": "g"
+            },
+            "metric": "Жири (18 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "33",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "3.0",
+                "unit": "g"
+            },
+            "metric": "Білки (4 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "3.5",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "14.7",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "80",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Лате\" класік",
+        "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
+        "colories": {
+            "value": {
+                "amount": "130",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.0",
+                "unit": "g"
+            },
+            "metric": "Жири (10 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "10.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (4 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "6.2",
+                "unit": "g"
+            },
+            "metric": "Білки (12 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "295",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Лате\" маленька",
+        "description": "Лате – кавовий напій, який містить молоко. Особливістю цієї кави є те, що, на відміну від капучино, у лате молока значно більше.",
+        "colories": {
+            "value": {
+                "amount": "82",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (4 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "4.5",
+                "unit": "g"
+            },
+            "metric": "Жири (6 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "6.6",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (3 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "3.9",
+                "unit": "g"
+            },
+            "metric": "Білки (8 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "195",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Капучино\" класік",
+        "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
+        "colories": {
+            "value": {
+                "amount": "130",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.0",
+                "unit": "g"
+            },
+            "metric": "Жири (10 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "10.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (4 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "6.2",
+                "unit": "g"
+            },
+            "metric": "Білки (12 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "245",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Капучино\" маленька",
+        "description": "Капучино – це мікс еспресо та гарячого молока у рівних пропорціях. Особливістю цієї кави є смачна молочна пінка, яка утворюється завдяки поєднанню пари та молока.",
+        "colories": {
+            "value": {
+                "amount": "71",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (4 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "3.8",
+                "unit": "g"
+            },
+            "metric": "Жири (5 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "5.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (2 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "3.4",
+                "unit": "g"
+            },
+            "metric": "Білки (7 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "175",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Американо\" класік",
+        "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
+        "colories": {
+            "value": {
+                "amount": "0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "230",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Американо\" маленька",
+        "description": "Американо – це еспресо з додаванням гарячої води і тому напій має аналогічні характеристики.",
+        "colories": {
+            "value": {
+                "amount": "0.0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "150",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Американо з молоком\" маленька",
+        "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
+        "colories": {
+            "value": {
+                "amount": "30",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (1 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "1.6",
+                "unit": "g"
+            },
+            "metric": "Жири (2 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "2.4",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (1 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "1.4",
+                "unit": "g"
+            },
+            "metric": "Білки (3 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "175",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Американо з молоком\" класік",
+        "description": "Американо з молоком – це еспресо з додаванням гарячої води та молока тому напій має м'якший смак, ніж американо.",
+        "colories": {
+            "value": {
+                "amount": "47",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "2.6",
+                "unit": "g"
+            },
+            "metric": "Жири (4 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "3.8",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (1 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.3",
+                "unit": "g"
+            },
+            "metric": "Білки (5 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "275",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Еспресо\"",
+        "description": "Еспресо – дуже міцна кава без молока в маленьких порціях. Еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
+        "colories": {
+            "value": {
+                "amount": "0.0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "40",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава подвійне еспресо",
+        "description": "Подвійне еспресо – дуже міцна кава без молока в маленьких порціях. Подвійне еспресо має густу однорідну «живу» пінку світло-горіхового кольору з «тигровими» розводами, яка відновлюється після розмішування напою.",
+        "colories": {
+            "value": {
+                "amount": "0.0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "60",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кава \"Флет Вайт\"",
+        "description": "Флет Вайт – для тих, хто любить насичений кавовий смак подвійного еспресо з додаванням спіненого гарячого молока. Тепер ще більш насичений смак вашої улюбленої кави.",
+        "colories": {
+            "value": {
+                "amount": "65",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (3 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "3.5",
+                "unit": "g"
+            },
+            "metric": "Жири (5 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "5.2",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (2 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "3.1",
+                "unit": "g"
+            },
+            "metric": "Білки (6 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "155",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Какао класік",
+        "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
+        "colories": {
+            "value": {
+                "amount": "210",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (11 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "4.46",
+                "unit": "g"
+            },
+            "metric": "Жири (6 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "33.65",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (13 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "8.05",
+                "unit": "g"
+            },
+            "metric": "Білки (16 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.333",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.55",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.315",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "300",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Какао маленьке",
+        "description": "Гаряче молоко в тандемі з какао подарують м’який смак та чудовий настрій на весь день.",
+        "colories": {
+            "value": {
+                "amount": "136",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (7 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "2.48",
+                "unit": "g"
+            },
+            "metric": "Жири (4 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "22.76",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (9 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.99",
+                "unit": "g"
+            },
+            "metric": "Білки (10 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.238",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "18.25",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.225",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "200",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Мокко класік",
+        "description": "Мокко - солодкий кавовий напій із додаванням молока та ніжного какао.",
+        "colories": {
+            "value": {
+                "amount": "165",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (8 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "7.0",
+                "unit": "g"
+            },
+            "metric": "Жири (10 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "21.2",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "4.4",
+                "unit": "g"
+            },
+            "metric": "Білки (9 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "3.3",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "16.7",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.3",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "295",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Лате Амарето",
+        "description": "Класичне запашне Лате з найкращим доповненням — насиченим сиропом Амарето, що настоюють на абрикосових кісточках",
+        "colories": {
+            "value": {
+                "amount": "0",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        }
+    },
+    {
+        "name": "Чай чорний",
+        "description": "Оригінальний чорний чай.",
+        "colories": {
+            "value": {
+                "amount": "0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "300",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Чай зелений з цитрусовими",
+        "description": "Оригінальний зелений чай.",
+        "colories": {
+            "value": {
+                "amount": "0",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (0 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (0 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.00",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "300",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Апельсиновий сік великий",
+        "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
+        "colories": {
+            "value": {
+                "amount": "179",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.4",
+                "unit": "g"
+            },
+            "metric": "Жири (1 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "26.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (10 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.0",
+                "unit": "g"
+            },
+            "metric": "Білки (4 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.8",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "450",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Апельсиновий сік маленький",
+        "description": "Натуральний прохолодний апельсиновий сік без додавання цукру.",
+        "colories": {
+            "value": {
+                "amount": "119",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.5",
+                "unit": "g"
+            },
+            "metric": "Жири (1 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "26.1",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (10 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "2.0",
+                "unit": "g"
+            },
+            "metric": "Білки (4 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.8",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "300",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кока-Кола велика",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "204",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (10 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "51",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (20 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "51",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "500",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кока-Кола середня",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "163",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (8 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "41",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (16 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "40.8",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "400",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Кока-Кола мала",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "102",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (5 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "26",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (10 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "25.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "250",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Фанта велика",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "158",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (8 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "39.5",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (15 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "39.5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.18",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "500",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Фанта середня",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "126",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (6 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "31.6",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (12 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "31.6",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.14",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "400",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Фанта мала",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "79",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (4 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "19.75",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "19.75",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.09",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "250",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Спрайт великий",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "40",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "10",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (4 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "10",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.15",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "500",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Спрайт середній",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "32",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (2 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "8",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (3 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "8",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.12",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "400",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Спрайт малий",
+        "description": "Всесвітньо відомий освіжаючий напій.",
+        "colories": {
+            "value": {
+                "amount": "20",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (1 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "5",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (2 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Білки (0 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "5",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0.075",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "250",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "ВОДА НЕГАЗОВАНА велика",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "carbs": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "proteins": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "500",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "ВОДА НЕГАЗОВАНА мала",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "carbs": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "proteins": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "250",
+                "unit": "г"
+            }
+        }
+    },
+    {
+        "name": "ВОДА ГАЗОВАНА велика",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "carbs": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "proteins": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "500",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "ВОДА ГАЗОВАНА мала",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "carbs": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "proteins": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            },
+            "metric": "N/A"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "N/A",
+                "unit": "N/A"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "250",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Сік «Галіція» яблучно-грушевий",
+        "description": "",
+        "colories": {
+            "value": {
+                "amount": "80",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (4 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "19",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (7 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "1.0",
+                "unit": "g"
+            },
+            "metric": "Білки (1 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0.0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "18",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "1.0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "200",
+                "unit": "мл"
+            }
+        }
+    },
+    {
+        "name": "Сік «Галіція» яблучний",
+        "description": "Новий натуральний сік прямого віджиму в меню МакДональдз® . В його складі лише стиглі фрукти — ніякого цукру, води чи консервантів.",
+        "colories": {
+            "value": {
+                "amount": "88",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (4 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "0",
+                "unit": "g"
+            },
+            "metric": "Жири (0 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "22",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (8 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "0.4",
+                "unit": "g"
+            },
+            "metric": "Білки (1 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "0",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "200",
+                "unit": "мл"
+            }
+        }
+    }
+]
