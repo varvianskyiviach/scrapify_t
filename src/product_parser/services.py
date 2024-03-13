@@ -38,9 +38,7 @@ def get_product(product_name: str) -> Dict | None:
     return None
 
 
-def get_product_for_detail(
-    product_name: str, product_field: str
-) -> Dict[str, str] | None:
+def get_product_for_detail(product_name: str, product_field: str) -> Dict[str, str] | None:
     product: Product = get_product(product_name)
 
     result: Dict = {}

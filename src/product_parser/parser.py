@@ -58,12 +58,8 @@ def get_products_links(soup: BeautifulSoup) -> List[str]:
 
 def parse_product_info(soup: BeautifulSoup) -> Tuple[str, str]:
 
-    container_product = soup.find(
-        "main", class_="container responsivegrid pt-responsive"
-    )
-    name: str = container_product.find(
-        "span", class_="cmp-product-details-main__heading-title"
-    ).text.replace("®", "")
+    container_product = soup.find("main", class_="container responsivegrid pt-responsive")
+    name: str = container_product.find("span", class_="cmp-product-details-main__heading-title").text.replace("®", "")
     description: str = container_product.find("div", class_="cmp-text").text.strip()
 
     return name, description
@@ -78,11 +74,7 @@ def parse_nutrients_info(
     nutrients_data: Dict[str, dict[str, Union[dict, str]]] = {}
 
     for element, nutrient in zip(nutrients_elements, nutrients_name):
-        content = (
-            element.find("span", class_="value")
-            .find("span", attrs={"aria-hidden": "true"})
-            .text.strip()
-        )
+        content = element.find("span", class_="value").find("span", attrs={"aria-hidden": "true"}).text.strip()
 
         amount, unit, metric = "N/A", "N/A", "N/A"
 
@@ -149,20 +141,14 @@ def parser_data(url: str) -> List[Product]:
 
     for product_link in product_links[:2]:
         absolute_product_link: str = BASE_URL + product_link
-        soup: BeautifulSoup = open_page_with_selenium(
-            url=absolute_product_link, driver=driver
-        )
+        soup: BeautifulSoup = open_page_with_selenium(url=absolute_product_link, driver=driver)
 
         name, description = parse_product_info(soup)
 
-        nutrients_elements: ResultSet = soup.find_all(
-            "li", class_="cmp-nutrition-summary__heading-primary-item"
-        )
+        nutrients_elements: ResultSet = soup.find_all("li", class_="cmp-nutrition-summary__heading-primary-item")
         nutrients_data: Dict = parse_nutrients_info(nutrients_elements)
 
-        nutrients_details = soup.find(
-            "div", class_="cmp-nutrition-summary__details-column-view-desktop"
-        ).find_all("li")
+        nutrients_details = soup.find("div", class_="cmp-nutrition-summary__details-column-view-desktop").find_all("li")
         nutrients_details_data: Dict = parse_additional_nutriens_info(nutrients_details)
 
         product = Product(
@@ -173,9 +159,7 @@ def parser_data(url: str) -> List[Product]:
         )
         print(product.name)
         result.append(product)
-    print(
-        f'{len(result)} products have been saved into the JSON file, which is "products" '
-    )
+    print(f'{len(result)} products have been saved into the JSON file, which is "products" ')
     driver.quit()
 
     return result
