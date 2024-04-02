@@ -1,5 +1,61 @@
 [
     {
+        "name": "Роял Делюкс",
+        "description": "Яловича котлетка, огорнута сиром чедер, а також свіжий салат, томат, мариновані огірочки та мікс гірчиці, кетчупа й соуса МакЧікен створюють незабутній смак. Спробуй свіжу новинку — Роял Делюкс.",
+        "colories": {
+            "value": {
+                "amount": "560",
+                "unit": "kcal"
+            },
+            "metric": "Калорійність (28 % DV )"
+        },
+        "fats": {
+            "value": {
+                "amount": "32.3",
+                "unit": "g"
+            },
+            "metric": "Жири (48 % DV )"
+        },
+        "carbs": {
+            "value": {
+                "amount": "39.7",
+                "unit": "g"
+            },
+            "metric": "Вуглеводи (14 % DV )"
+        },
+        "proteins": {
+            "value": {
+                "amount": "28.8",
+                "unit": "g"
+            },
+            "metric": "Білки (39 % DV )"
+        },
+        "unsaturated_fats": {
+            "value": {
+                "amount": "12.3",
+                "unit": "г"
+            }
+        },
+        "sugar": {
+            "value": {
+                "amount": "9.8",
+                "unit": "г"
+            }
+        },
+        "salt": {
+            "value": {
+                "amount": "2.6",
+                "unit": "г"
+            }
+        },
+        "portion": {
+            "value": {
+                "amount": "220",
+                "unit": "г"
+            }
+        }
+    },
+    {
         "name": "Біг Мак",
         "description": "Два біфштекси з натуральної яловичини, цибуля, маринований огірок, сир “Чеддер”, свіжий салат, заправлені спеціальним соусом, у булочці з насінням сезаму.",
         "colories": {
@@ -1339,62 +1395,6 @@
         "portion": {
             "value": {
                 "amount": "190",
-                "unit": "г"
-            }
-        }
-    },
-    {
-        "name": "Хрусткі курячі крильця 10 шматочків",
-        "description": "Курячі крильця в хрусткому паніруванні",
-        "colories": {
-            "value": {
-                "amount": "1082",
-                "unit": "kcal"
-            },
-            "metric": "Калорійність (54 % DV )"
-        },
-        "fats": {
-            "value": {
-                "amount": "66",
-                "unit": "g"
-            },
-            "metric": "Жири (94 % DV )"
-        },
-        "carbs": {
-            "value": {
-                "amount": "50",
-                "unit": "g"
-            },
-            "metric": "Вуглеводи (19 % DV )"
-        },
-        "proteins": {
-            "value": {
-                "amount": "72",
-                "unit": "g"
-            },
-            "metric": "Білки (144 % DV )"
-        },
-        "unsaturated_fats": {
-            "value": {
-                "amount": "18",
-                "unit": "г"
-            }
-        },
-        "sugar": {
-            "value": {
-                "amount": "50",
-                "unit": "г"
-            }
-        },
-        "salt": {
-            "value": {
-                "amount": "5.0",
-                "unit": "г"
-            }
-        },
-        "portion": {
-            "value": {
-                "amount": "380",
                 "unit": "г"
             }
         }

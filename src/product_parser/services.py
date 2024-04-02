@@ -51,6 +51,3 @@ def get_product_for_detail(product_name: str, product_field: str) -> Dict[str, s
 
         return result
     return None
-
-
-get_product_for_detail(product_name="Біг Мак", product_field="sfs")

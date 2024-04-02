@@ -4,6 +4,7 @@ from typing import Dict, List, Tuple, Union
 
 from bs4 import BeautifulSoup
 from bs4.element import ResultSet
+from constants import BASE_URL, RELATIVE_URL
 from models import Product
 from requests import Session
 from selenium.webdriver import Chrome
@@ -11,8 +12,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver import create_webdriver
-
-from .constants import BASE_URL, RELATIVE_URL
 
 absolute_url = BASE_URL + RELATIVE_URL
 
@@ -139,7 +138,7 @@ def parser_data(url: str) -> List[Product]:
 
     driver: Chrome = create_webdriver()
 
-    for product_link in product_links[:2]:
+    for product_link in product_links:
         absolute_product_link: str = BASE_URL + product_link
         soup: BeautifulSoup = open_page_with_selenium(url=absolute_product_link, driver=driver)
 
